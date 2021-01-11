@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on <a href="https://github.com/Tabaszczan/djangoCalendar">Django Callendar</a>
-
+- 📫 How to reach me: 
+    📧 <a href="mailto:mpodolak777@gmail.com">mpodolak777@gmail.com</a> 
+   
 <!--
 **Tabaszczan/Tabaszczan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
