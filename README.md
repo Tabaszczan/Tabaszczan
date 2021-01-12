@@ -5,6 +5,7 @@
   - Documentation on all repositories 
 - :seedling: I’m currently learning
   - Django testing( PyTest, mocks etc.)
+  - Docker, docker-compose, AWS
 - :question: How to reach me / Where you can find me: 
   - :e-mail: <a href="mailto:mpodolak777@gmail.com">mpodolak777@gmail.com</a> 
   - :camera: <a href="https://www.instagram.com/tabaszczan/">Instagram</a> 
