@@ -9,6 +9,9 @@
 - :question: How to reach me / Where you can find me: 
   - :e-mail: <a href="mailto:mpodolak777@gmail.com">mpodolak777@gmail.com</a> 
   - :camera: <a href="https://www.instagram.com/tabaszczan/">Instagram</a> 
+- My resume:
+  - :poland: <a href="https://tabaszczan.github.io/files/CV_PL.pdf">Polish Version</a>
+  - :uk: <a href="https://tabaszczan.github.io/files/CV_EN.pdf">English Version</a>
 <!--
 **Tabaszczan/Tabaszczan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
