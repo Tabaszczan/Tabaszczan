@@ -1,8 +1,5 @@
 ### Hi there :wave: I'm Mateusz :smile: trying my best to become Django developer :grin:
 
-- :telescope: I’m currently working on 
-  - <a href="https://github.com/Tabaszczan/djangoCalendar">Django Callendar</a>
-  - Documentation on all repositories 
 - :seedling: I’m currently learning
   - Django testing( PyTest, mocks etc.)
   - Docker, docker-compose, AWS
