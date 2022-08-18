@@ -1,4 +1,4 @@
-### Hi there :wave: I'm Mateusz :smile: trying my best to become Django developer :grin:
+### Hi there :wave: I'm Mateusz :smile: doing something with Python 
 
 - :seedling: I’m currently learning
   - Django testing( PyTest, mocks etc.)
